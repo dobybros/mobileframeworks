@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2C94C71C-40A0-4235-910C-92066747745A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TalentFramework</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3a8ec448-d357-2943-8860-822cf355958f++8314</key>
+		<string>http://188.188.188.105:90/svn/chat/client_talentframework</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/TalentFramework/TalentFramework.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3a8ec448-d357-2943-8860-822cf355958f++8314</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>3a8ec448-d357-2943-8860-822cf355958f++8314</key>
+		<string>http://188.188.188.105:90/svn/chat</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://188.188.188.105:90/svn/chat/client_talentframework/trunk/TalentFramework/TalentFramework.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3a8ec448-d357-2943-8860-822cf355958f++8314</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3a8ec448-d357-2943-8860-822cf355958f++8314</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TalentFramework</string>
+		</dict>
+	</array>
+</dict>
+</plist>
